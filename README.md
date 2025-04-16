@@ -100,8 +100,6 @@ Ensure all .txt files mentioned above are created in the working directory or wi
 
 ## 📚 References
 
-## 📚 References
-
 - [C Programming with File Handling](https://www.geeksforgeeks.org/basics-file-handling-c/)
 - [Windows Console Functions (gotoxy, SetConsoleCursorPosition)](https://learn.microsoft.com/en-us/windows/console/setconsolecursorposition)
 - [Turbo C / Dev C++ for Beginners](https://www.tutorialspoint.com/cprogramming/index.htm)
